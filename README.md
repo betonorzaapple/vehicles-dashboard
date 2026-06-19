@@ -1,5 +1,7 @@
 # 🚗 Dashboard de Análisis del Mercado de Vehículos Usados
 
+🔗 **Aplicación en vivo:** [https://vehicles-dashboard-c4kx.onrender.com/](https://vehicles-dashboard-c4kx.onrender.com/)
+
 Esta es una aplicación web interactiva desarrollada en **Streamlit** para analizar un conjunto de datos de anuncios de venta de coches en los Estados Unidos (`vehicles_us.csv`). El objetivo principal de este proyecto es aplicar buenas prácticas de desarrollo de software, incluyendo el uso de entornos virtuales, estructuración de proyectos, control de versiones con Git/GitHub y despliegue continuo en la nube (Render).
 
 ---
@@ -98,4 +100,4 @@ La versión en producción de esta aplicación está configurada para desplegars
    streamlit run app.py
    ```
 3. **URL de producción:**
-   https://`<APP_NAME>`.onrender.com/
+   🔗 [https://vehicles-dashboard-c4kx.onrender.com/](https://vehicles-dashboard-c4kx.onrender.com/)
